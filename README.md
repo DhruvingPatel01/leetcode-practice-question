@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
