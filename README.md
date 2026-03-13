@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0113-path-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
