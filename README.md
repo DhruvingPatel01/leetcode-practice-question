@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -125,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
