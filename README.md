@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0102-binary-tree-level-order-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
