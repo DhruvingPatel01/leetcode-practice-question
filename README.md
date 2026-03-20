@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
