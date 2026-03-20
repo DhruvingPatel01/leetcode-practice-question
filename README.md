@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
 | [0551-student-attendance-record-i](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0551-student-attendance-record-i) |
 ## Stack
@@ -243,11 +244,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0113-path-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0968-binary-tree-cameras) |
