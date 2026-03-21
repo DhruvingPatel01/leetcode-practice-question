@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0224-basic-calculator) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0224-basic-calculator) |
 | [0551-student-attendance-record-i](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0551-student-attendance-record-i) |
 ## Stack
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0224-basic-calculator) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
