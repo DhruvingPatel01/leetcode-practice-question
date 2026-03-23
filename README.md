@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
