@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0704-binary-search) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0450-delete-node-in-a-bst) |
+| [0704-binary-search](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0704-binary-search) |
 ## Breadth-First Search
 |  |
 | ------- |
