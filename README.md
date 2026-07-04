@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0704-binary-search) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1572-matrix-diagonal-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0036-valid-sudoku) |
+| [1572-matrix-diagonal-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/1572-matrix-diagonal-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
