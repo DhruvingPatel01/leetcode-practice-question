@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0525-contiguous-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0224-basic-calculator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0449-serialize-and-deserialize-bst) |
 | [0551-student-attendance-record-i](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0551-student-attendance-record-i) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
