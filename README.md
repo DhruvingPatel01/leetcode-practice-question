@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0680-valid-palindrome-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0142-linked-list-cycle-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0525-contiguous-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0142-linked-list-cycle-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/2487-remove-nodes-from-linked-list) |
