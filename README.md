@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0189-rotate-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0224-basic-calculator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0449-serialize-and-deserialize-bst) |
