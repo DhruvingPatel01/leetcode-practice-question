@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0525-contiguous-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0319-bulb-switcher) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0450-delete-node-in-a-bst) |
 | [0704-binary-search](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0704-binary-search) |
@@ -309,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0089-gray-code) |
+| [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
