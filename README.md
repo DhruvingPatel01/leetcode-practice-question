@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0224-basic-calculator) |
 | [0319-bulb-switcher](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0319-bulb-switcher) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0113-path-sum-ii) |
 ## Dynamic Programming
 |  |
