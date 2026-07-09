@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/1572-matrix-diagonal-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0525-contiguous-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0450-delete-node-in-a-bst) |
 | [0704-binary-search](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0704-binary-search) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1552-magnetic-force-between-two-balls) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -398,4 +401,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0319-bulb-switcher) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
