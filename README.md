@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0189-rotate-array) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 ## Simulation
 |  |
