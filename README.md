@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0380-insert-delete-getrandom-o1) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0380-insert-delete-getrandom-o1) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
