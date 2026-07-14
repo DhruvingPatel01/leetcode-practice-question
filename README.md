@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0704-binary-search) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0918-maximum-sum-circular-subarray) |
+| [0962-maximum-width-ramp](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0962-maximum-width-ramp) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/1572-matrix-diagonal-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0680-valid-palindrome-ii) |
+| [0962-maximum-width-ramp](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0962-maximum-width-ramp) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0224-basic-calculator) |
+| [0962-maximum-width-ramp](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0962-maximum-width-ramp) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0962-maximum-width-ramp](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0962-maximum-width-ramp) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Database
 |  |
