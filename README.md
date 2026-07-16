@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0039-combination-sum) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0098-validate-binary-search-tree) |
