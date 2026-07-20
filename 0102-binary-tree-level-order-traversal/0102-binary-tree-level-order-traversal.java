@@ -1,34 +1,38 @@
-import java.util.*;
-
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> result = new ArrayList<>();
-        if (root == null) return result;
 
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
+        List<List<Integer>> ans = new ArrayList<>();
 
-        while (!queue.isEmpty()) {
-            // Get the number of nodes at the current level
-            int levelSize = queue.size();
-            List<Integer> currentLevelValues = new ArrayList<>();
-
-            for (int i = 0; i < levelSize; i++) {
-                TreeNode currentNode = queue.poll();
-                currentLevelValues.add(currentNode.val);
-
-                // Add children to the queue for the next level
-                if (currentNode.left != null) {
-                    queue.add(currentNode.left);
-                }
-                if (currentNode.right != null) {
-                    queue.add(currentNode.right);
-                }
-            }
-            // Level is finished, add it to the result list
-            result.add(currentLevelValues);
+        if(root == null){
+            return ans;
         }
 
-        return result;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+
+        while(!q.isEmpty()) {
+
+            int size = q.size();
+            List<Integer> level = new ArrayList<>();
+
+            for(int i = 0; i < size; i++) {
+
+                TreeNode node = q.poll();
+
+                level.add(node.val);
+
+                if(node.left != null) {
+                    q.add(node.left);
+                }
+
+                if(node.right != null) {
+                    q.add(node.right);
+                }
+            }
+
+            ans.add(level);   
+        }
+
+        return ans;   
     }
 }
