@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0189-rotate-array) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0162-find-peak-element) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0287-find-the-duplicate-number) |
