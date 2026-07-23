@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0319-bulb-switcher) |
+| [0371-sum-of-two-integers](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0932-beautiful-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0932-beautiful-array) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
 | ------- |
