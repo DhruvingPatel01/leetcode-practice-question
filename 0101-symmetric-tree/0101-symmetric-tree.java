@@ -20,7 +20,6 @@
         }
         return isMirror(root.left, root.right);
     }
-    
     private boolean isMirror(TreeNode node1, TreeNode node2) {
         if (node1 == null && node2 == null) {
             return true;
