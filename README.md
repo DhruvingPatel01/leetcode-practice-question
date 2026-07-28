@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0680-valid-palindrome-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0725-split-linked-list-in-parts) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0234-palindrome-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0962-maximum-width-ramp) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
