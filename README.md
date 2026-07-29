@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0078-subsets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0179-largest-number) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0089-gray-code) |
