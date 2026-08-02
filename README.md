@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/1572-matrix-diagonal-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
