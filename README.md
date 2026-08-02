@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0932-beautiful-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0932-beautiful-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0877-stone-game](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0918-maximum-sum-circular-subarray) |
 | [0968-binary-tree-cameras](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0968-binary-tree-cameras) |
 ## Sliding Window
@@ -471,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0918-maximum-sum-circular-subarray) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
