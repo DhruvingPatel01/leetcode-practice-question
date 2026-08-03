@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/1572-matrix-diagonal-sum) |
+| [1710-maximum-units-on-a-truck](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1552-magnetic-force-between-two-balls) |
+| [1710-maximum-units-on-a-truck](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0680-valid-palindrome-ii) |
+| [1710-maximum-units-on-a-truck](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/1710-maximum-units-on-a-truck) |
 ## Trie
 |  |
 | ------- |
