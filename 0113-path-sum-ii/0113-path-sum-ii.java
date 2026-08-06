@@ -1,30 +1,33 @@
-import java.util.*;
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        List<List<Integer>> result = new ArrayList<>();
-        List<Integer> currentPath = new ArrayList<>();
-        findPaths(root, targetSum, currentPath, result);
-        return result;
+       List<List<Integer>> output = new ArrayList<>();
+       dfs(root, targetSum, 0, output, new ArrayList<>());     
+       return output;
     }
-
-    private void findPaths(TreeNode node, int targetSum, List<Integer> currentPath, List<List<Integer>> result) {
-        if (node == null) return;
-
-        // Add current node to the path
-        currentPath.add(node.val);
-
-        // Check if it's a leaf and the sum matches
-        if (node.left == null && node.right == null && targetSum == node.val) {
-            // We must create a new list because currentPath will continue to change
-            result.add(new ArrayList<>(currentPath));
-        } else {
-            // Continue searching left and right
-            findPaths(node.left, targetSum - node.val, currentPath, result);
-            findPaths(node.right, targetSum - node.val, currentPath, result);
-        }
-
-        // BACKTRACK: Remove the current node before going back up the tree
+    private void dfs(TreeNode root , int targetSum , int curSum,List<List<Integer>> output, List<Integer> currentPath ){
+        if (root == null) return;
+        curSum += root.val;
+        currentPath.add(root.val);
+          if (root.left == null && root.right == null && curSum == targetSum) {
+            output.add(new ArrayList<>(currentPath));
+    }
+        dfs(root.left, targetSum, curSum, output, currentPath);
+        dfs(root.right, targetSum, curSum, output, currentPath);
         currentPath.remove(currentPath.size() - 1);
     }
 }
