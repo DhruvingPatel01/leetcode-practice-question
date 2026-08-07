@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0525-contiguous-array) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0918-maximum-sum-circular-subarray) |
 | [0968-binary-tree-cameras](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0968-binary-tree-cameras) |
@@ -492,4 +495,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0877-stone-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
