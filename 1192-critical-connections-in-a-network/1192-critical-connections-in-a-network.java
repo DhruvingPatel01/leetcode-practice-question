@@ -36,8 +36,7 @@ class Solution {
                 dfs(i, -1);
             }
         }
-
-        return bridges;
+return bridges;
 
 }
 static void dfs(int u, int parent) {
@@ -68,5 +67,5 @@ static void dfs(int u, int parent) {
                 low[u] = Math.min(low[u], disc[v]);
             }
         }
-}
+    }
 }
